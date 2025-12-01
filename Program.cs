@@ -74,7 +74,7 @@ namespace VectorMatrixApp
             }
         }
 
-        // Перевантаження (override) методу виведення на екран
+        // Перевантаження методу виведення на екран
         public override void Print()
         {
             Console.WriteLine("Matrix (4x4):");
